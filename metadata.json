@@ -1,0 +1,6 @@
+{
+  "name": "PINTAR - SMPI AL-AKBAR",
+  "description": "PINTAR - SMPI AL-AKBAR: Portal Pembelajaran & Informasi Terpadu Akademik SMP Islam Al-Akbar dengan pengumuman foto & video, kuis kode guru, kalender tenggat waktu, sistem chat akademik aman, dan panel kustomisasi admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
